@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1069039205625",
+    "firebase_url": "https://adhitya-1202150103-modul6.firebaseio.com",
+    "project_id": "adhitya-1202150103-modul6",
+    "storage_bucket": "adhitya-1202150103-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069039205625:android:4bb7720f4f445c0e",
+        "android_client_info": {
+          "package_name": "com.example.adhitya_1202150103_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069039205625-6g23o6so980t6cj25iqva2t83j9at24o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adhitya_1202150103_modul6",
+            "certificate_hash": "28d7702565f9056ea129c11c95aeb52c1eac6f81"
+          }
+        },
+        {
+          "client_id": "1069039205625-oj4fgu7s74fjlpq697uf727lu1bp380r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvD7KJMZCBXkoBdbFlrMN8VAMrS9k213s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069039205625-oj4fgu7s74fjlpq697uf727lu1bp380r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
